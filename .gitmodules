@@ -13,3 +13,6 @@
 [submodule "dialog"]
 	path = dialog
 	url = https://github.com/amine0110/dialog
+[submodule "Insert-Take-of-picutres-form-the-database"]
+	path = Insert-Take-of-picutres-form-the-database
+	url = https://github.com/amine0110/Insert-Take-of-picutres-form-the-database
