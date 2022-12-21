@@ -28,3 +28,6 @@
 [submodule "Birds-classification"]
 	path = Birds-classification
 	url = https://github.com/amine0110/Birds-classification
+[submodule "draw-on-an-image-tkinter"]
+	path = draw-on-an-image-tkinter
+	url = https://github.com/amine0110/draw-on-an-image-tkinter
