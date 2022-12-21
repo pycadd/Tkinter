@@ -19,3 +19,6 @@
 [submodule "open-images-with-python-dialog"]
 	path = open-images-with-python-dialog
 	url = https://github.com/amine0110/open-images-with-python-dialog
+[submodule "create-an-app-that-convert-from-png-to-jpg"]
+	path = create-an-app-that-convert-from-png-to-jpg
+	url = https://github.com/amine0110/create-an-app-that-convert-from-png-to-jpg
