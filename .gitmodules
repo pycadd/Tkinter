@@ -31,3 +31,6 @@
 [submodule "draw-on-an-image-tkinter"]
 	path = draw-on-an-image-tkinter
 	url = https://github.com/amine0110/draw-on-an-image-tkinter
+[submodule "Manual-tumor-segmentation"]
+	path = Manual-tumor-segmentation
+	url = https://github.com/amine0110/Manual-tumor-segmentation
