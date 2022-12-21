@@ -16,3 +16,6 @@
 [submodule "Insert-Take-of-picutres-form-the-database"]
 	path = Insert-Take-of-picutres-form-the-database
 	url = https://github.com/amine0110/Insert-Take-of-picutres-form-the-database
+[submodule "open-images-with-python-dialog"]
+	path = open-images-with-python-dialog
+	url = https://github.com/amine0110/open-images-with-python-dialog
