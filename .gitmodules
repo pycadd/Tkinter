@@ -7,3 +7,6 @@
 [submodule "calories-counter-application"]
 	path = calories-counter-application
 	url = https://github.com/amine0110/calories-counter-application
+[submodule "images-in-Tkinter-using-TkImage"]
+	path = images-in-Tkinter-using-TkImage
+	url = https://github.com/amine0110/images-in-Tkinter-using-TkImage
