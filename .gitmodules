@@ -1,3 +1,6 @@
 [submodule "new-window"]
 	path = new-window
 	url = https://github.com/amine0110/new-window
+[submodule "facebook-and-instagram-app"]
+	path = facebook-and-instagram-app
+	url = https://github.com/amine0110/facebook-and-instagram-app
